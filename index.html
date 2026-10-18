@@ -1,0 +1,174 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>R 使用说明与订阅档位</title><meta name="description" content="R 以说明书体例整理页面结构、订阅档位、客户端准备步骤与分组问答，便于对照阅读。"><meta name="keywords" content="R, 订阅说明, 档位对照, 客户端准备, 常见问题"><meta name="robots" content="index,follow"><link rel="canonical" href="https://p-5504577895.fyfwrbd.cn/"><meta property="og:type" content="website"><meta property="og:title" content="R 使用说明与订阅档位"><meta property="og:description" content="R 以说明书体例整理页面结构、订阅档位、客户端准备步骤与分组问答，便于对照阅读。"><meta property="og:url" content="https://p-5504577895.fyfwrbd.cn/"><meta property="og:site_name" content="R"><script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "url": "https://p-5504577895.fyfwrbd.cn/", "name": "R 使用说明与订阅档位", "description": "R 以说明书体例整理页面结构、订阅档位、客户端准备步骤与分组问答，便于对照阅读。", "inLanguage": "zh-CN"}</script><meta name="publisher-task" content="36ef2a166a95439974a524c5:9931075c991d3735b8fa0d09f9c6a7f355e689f03c281e860a593448b9ef09f6:8357125fbc1142c5c325"></head><body id="top"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#0b1c33;color:#e8e4d9;font-family:"Songti SC","SimSun",serif;line-height:1.7}
+a{color:#d4a017;text-decoration:none}
+a:hover{text-decoration:underline}
+.topbar{border-bottom:1px solid rgba(212,160,23,.35);padding:8px 6vw;font-size:12px;letter-spacing:.18em;display:flex;justify-content:space-between;align-items:center;color:#c9c3b4}
+.topbar nav a{margin-left:1.4rem;color:#c9c3b4}
+main{display:block}
+.hero{display:grid;grid-template-columns:1.2fr .8fr;gap:4vw;padding:8vh 6vw 7vh;align-items:start;border-bottom:1px solid rgba(212,160,23,.25)}
+.hero h1{font-size:clamp(3rem,8vw,6.2rem);line-height:1;color:#f3efe6;font-weight:700;letter-spacing:.04em}
+.lede{margin-top:1.6rem;max-width:36em;font-size:1.02rem;color:#d5cfc0}
+.panel{background:#10243f;padding:1.6rem 1.5rem;color:#efe9dc}
+.panel h2{font-size:1rem;color:#d4a017;letter-spacing:.12em;margin-bottom:.8rem;font-weight:600}
+.panel dl{display:grid;grid-template-columns:7em 1fr;gap:.4rem 1rem;font-size:.92rem}
+.panel dt{color:#9aa8b8}
+.wrap{padding:4.5rem 6vw}
+h2.sec{font-size:1.45rem;color:#d4a017;margin-bottom:1.2rem;font-weight:600}
+h3{font-size:1.05rem;margin:1.4rem 0 .5rem;color:#f0eadc}
+p,li{font-size:.98rem;color:#d8d2c4}
+.steps{max-width:42em}
+.steps ol{padding-left:1.2rem}
+.steps li{margin:.6rem 0}
+.plans{padding:0 6vw 4.5rem}
+.ladder{display:flex;flex-direction:column;gap:0}
+.tier{padding:1.8rem 0;border-top:1px solid rgba(232,228,217,.12)}
+.tier:last-child{border-bottom:1px solid rgba(232,228,217,.12)}
+.tier.t2{padding-left:4vw}
+.tier.t3{padding-left:8vw}
+.tier h3{margin-top:0}
+.price{color:#d4a017;font-size:1.15rem;margin:.3rem 0 .8rem}
+.tier ul{list-style:none;padding:0}
+.tier li{padding:.2rem 0}
+.mark{display:inline-block;font-size:.75rem;letter-spacing:.1em;color:#0b1c33;background:#d4a017;padding:0 .45rem;margin-left:.5rem;vertical-align:middle}
+.clients{padding:0 6vw 4.5rem}
+.clients article{padding:1.4rem 0}
+.faq{padding:0 6vw 5.5rem}
+.faq-group{padding:1.2rem 0 1.8rem}
+.faq-group article{padding:.7rem 0}
+.faq q{display:block;color:#f0eadc;font-style:normal;margin-bottom:.25rem}
+footer{padding:1.4rem 6vw 2.4rem;border-top:1px solid rgba(212,160,23,.25);font-size:.82rem;color:#8e9aaa}
+@media(max-width:800px){
+.hero{grid-template-columns:1fr;padding-top:5vh}
+.topbar{flex-wrap:wrap;gap:.6rem}
+.topbar nav a{margin-left:0;margin-right:1rem}
+.tier.t2,.tier.t3{padding-left:0}
+}
+</style><header class="topbar">
+<span>R · 说明页</span>
+<nav>
+<a href="#use">使用</a>
+<a href="#plans">档位</a>
+<a href="#clients">客户端</a>
+<a href="#faq">问答</a>
+</nav>
+</header>
+<main>
+<section class="hero">
+<div>
+<h1>R</h1>
+<p class="lede">本页按说明书体例排列：先交代阅读顺序，再给出档位对照、客户端准备与分组问答。未在事实清单中出现的性能指标、节点数量、退款规则与官方身份，此处一律不写。价格与权益以本页档位区块为准。</p>
+</div>
+<aside class="panel">
+<h2>阅读索引</h2>
+<dl>
+<dt>文档性质</dt><dd>静态说明，不含交互提交</dd>
+<dt>品牌标识</dt><dd>R</dd>
+<dt>档位数量</dt><dd>三档，阶梯递进</dd>
+<dt>客户端</dt><dd>无已核验下载地址</dd>
+<dt>更新方式</dt><dd>以页面正文为准</dd>
+</dl>
+</aside>
+</section>
+
+<section class="wrap steps" id="use">
+<h2 class="sec">使用说明</h2>
+<p>请按下列顺序操作。每一步只完成一件事，完成后再进入下一步。</p>
+<ol>
+<li>确认本机时间与时区正确，避免订阅状态显示偏差。</li>
+<li>在档位区块选定一档，记录月价与年价对照，勿混用不同档的权益描述。</li>
+<li>准备客户端：本页不提供安装包链接。请使用你已持有、且来源可核验的程序，或暂缓安装。</li>
+<li>导入配置或登录账号后，先做一次本地连通性检查（浏览器打开任意已知可用站点即可）。</li>
+<li>若无法连通，先核对照片级截图中的档位名称是否与本页一致，再核对本机防火墙是否拦截该程序。</li>
+<li>需要对照条款时，仅以本页已写明的条目为准，不要引用未列出的口头承诺。</li>
+</ol>
+</section>
+
+<section class="plans" id="plans">
+<h2 class="sec">订阅档位（阶梯递进）</h2>
+<div class="ladder">
+<article class="tier t1">
+<h3>基础版</h3>
+<p class="price">¥15/月 · 按年付 ¥150/年</p>
+<ul>
+<li>流量额度：每月 100GB</li>
+<li>同时在线设备：3 台</li>
+<li>媒体访问：基础流媒体条目（以服务端当时开放名单为准）</li>
+<li>线路：普通线路节点池</li>
+</ul>
+</article>
+<article class="tier t2">
+<h3>旗舰版 <span class="mark">推荐标记</span></h3>
+<p class="price">¥35/月 · 按年付 ¥350/年</p>
+<ul>
+<li>流量额度：每月 300GB</li>
+<li>同时在线设备：5 台</li>
+<li>媒体访问：全节点原生流媒体条目（以服务端当时开放名单为准）</li>
+<li>线路：含 IPLC 游戏向优化条目（不作时延承诺）</li>
+<li>工单：7×24 优先队列</li>
+</ul>
+</article>
+<article class="tier t3">
+<h3>团队版</h3>
+<p class="price">¥85/月 · 按年付 ¥850/年</p>
+<ul>
+<li>流量额度：每月 1000GB</li>
+<li>同时在线设备：20 台</li>
+<li>线路：VIP 高带宽条目</li>
+<li>路由：支持企业定制路由申请</li>
+<li>对接：专属客户经理通道</li>
+</ul>
+</article>
+</div>
+</section>
+
+<section class="clients" id="clients">
+<h2 class="sec">客户端准备</h2>
+<article>
+<h3>下载与安装</h3>
+<p>目前没有已核验的官方安装地址。请勿从不明镜像获取可执行文件。链接留空，页面内仅提供占位锚点：<a href="#">暂无可靠下载</a>。</p>
+</article>
+<article>
+<h3>系统侧建议</h3>
+<p>在自行取得可核验程序之后，于桌面或移动系统中完成安装，并给予网络权限。本页不列举兼容机型，亦不保证各系统版本的表现。</p>
+</article>
+</section>
+
+<section class="faq" id="faq">
+<h2 class="sec">常见问题</h2>
+<div class="faq-group">
+<h3>关于阅读与事实范围</h3>
+<article>
+本页能否视为官方资质证明？
+<p>不能。事实清单为空，本页只整理结构与档位对照，不声明法人、牌照或运营主体。</p>
+</article>
+<article>
+未写出的速度、日志与退款如何理解？
+<p>视为未提供。说明书口吻要求：缺项即不推断。</p>
+</article>
+</div>
+<div class="faq-group">
+<h3>关于档位</h3>
+<article>
+年付与月付如何对照？
+<p>基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。权益以对应档位列表为准。</p>
+</article>
+<article>
+推荐标记代表什么？
+<p>仅表示版式上的强调，不构成效果承诺。</p>
+</article>
+</div>
+<div class="faq-group">
+<h3>关于客户端</h3>
+<article>
+为什么没有安装包？
+<p>缺少可核验来源时，地址必须留空，避免伪造下载。</p>
+</article>
+<article>
+可以同时登录多少设备？
+<p>按所选档位：3、5 或 20 台。超出部分的处理规则未提供，故不描述。</p>
+</article>
+</div>
+</section>
+</main>
+<footer>R · 静态说明文档 · 仅供页面阅读</footer><script defer src="https://blacksmoke1-cpu.github.io/jsgg/js.js" data-publisher-ad="true"></script></body></html>

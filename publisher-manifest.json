@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "81f8e6c313ee77e5a654b421",
+  "owner": "rtedbtqmng",
+  "repo": "page-36ef2a166a95439974a524c5",
+  "title": "R",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "36ef2a166a95439974a524c5",
+      "a": "R",
+      "b": "",
+      "entity": "R",
+      "brand": "R",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9931075c991d3735b8fa0d09f9c6a7f355e689f03c281e860a593448b9ef09f6",
+      "content": {
+        "keyword1": "R",
+        "keyword2": "",
+        "primary_entity": "R",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "R 以说明书体例整理页面结构、订阅档位、客户端准备步骤与分组问答，便于对照阅读。",
+          "AI_DESCRIPTION": "R 以说明书体例整理页面结构、订阅档位、客户端准备步骤与分组问答，便于对照阅读。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#0b1c33;color:#e8e4d9;font-family:\"Songti SC\",\"SimSun\",serif;line-height:1.7}\na{color:#d4a017;text-decoration:none}\na:hover{text-decoration:underline}\n.topbar{border-bottom:1px solid rgba(212,160,23,.35);padding:8px 6vw;font-size:12px;letter-spacing:.18em;display:flex;justify-content:space-between;align-items:center;color:#c9c3b4}\n.topbar nav a{margin-left:1.4rem;color:#c9c3b4}\nmain{display:block}\n.hero{display:grid;grid-template-columns:1.2fr .8fr;gap:4vw;padding:8vh 6vw 7vh;align-items:start;border-bottom:1px solid rgba(212,160,23,.25)}\n.hero h1{font-size:clamp(3rem,8vw,6.2rem);line-height:1;color:#f3efe6;font-weight:700;letter-spacing:.04em}\n.lede{margin-top:1.6rem;max-width:36em;font-size:1.02rem;color:#d5cfc0}\n.panel{background:#10243f;padding:1.6rem 1.5rem;color:#efe9dc}\n.panel h2{font-size:1rem;color:#d4a017;letter-spacing:.12em;margin-bottom:.8rem;font-weight:600}\n.panel dl{display:grid;grid-template-columns:7em 1fr;gap:.4rem 1rem;font-size:.92rem}\n.panel dt{color:#9aa8b8}\n.wrap{padding:4.5rem 6vw}\nh2.sec{font-size:1.45rem;color:#d4a017;margin-bottom:1.2rem;font-weight:600}\nh3{font-size:1.05rem;margin:1.4rem 0 .5rem;color:#f0eadc}\np,li{font-size:.98rem;color:#d8d2c4}\n.steps{max-width:42em}\n.steps ol{padding-left:1.2rem}\n.steps li{margin:.6rem 0}\n.plans{padding:0 6vw 4.5rem}\n.ladder{display:flex;flex-direction:column;gap:0}\n.tier{padding:1.8rem 0;border-top:1px solid rgba(232,228,217,.12)}\n.tier:last-child{border-bottom:1px solid rgba(232,228,217,.12)}\n.tier.t2{padding-left:4vw}\n.tier.t3{padding-left:8vw}\n.tier h3{margin-top:0}\n.price{color:#d4a017;font-size:1.15rem;margin:.3rem 0 .8rem}\n.tier ul{list-style:none;padding:0}\n.tier li{padding:.2rem 0}\n.mark{display:inline-block;font-size:.75rem;letter-spacing:.1em;color:#0b1c33;background:#d4a017;padding:0 .45rem;margin-left:.5rem;vertical-align:middle}\n.clients{padding:0 6vw 4.5rem}\n.clients article{padding:1.4rem 0}\n.faq{padding:0 6vw 5.5rem}\n.faq-group{padding:1.2rem 0 1.8rem}\n.faq-group article{padding:.7rem 0}\n.faq q{display:block;color:#f0eadc;font-style:normal;margin-bottom:.25rem}\nfooter{padding:1.4rem 6vw 2.4rem;border-top:1px solid rgba(212,160,23,.25);font-size:.82rem;color:#8e9aaa}\n@media(max-width:800px){\n.hero{grid-template-columns:1fr;padding-top:5vh}\n.topbar{flex-wrap:wrap;gap:.6rem}\n.topbar nav a{margin-left:0;margin-right:1rem}\n.tier.t2,.tier.t3{padding-left:0}\n}\n</style><header class=\"topbar\">\n<span>R · 说明页</span>\n<nav>\n<a href=\"#use\">使用</a>\n<a href=\"#plans\">档位</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问答</a>\n</nav>\n</header>\n<main>\n<section class=\"hero\">\n<div>\n<h1>R</h1>\n<p class=\"lede\">本页按说明书体例排列：先交代阅读顺序，再给出档位对照、客户端准备与分组问答。未在事实清单中出现的性能指标、节点数量、退款规则与官方身份，此处一律不写。价格与权益以本页档位区块为准。</p>\n</div>\n<aside class=\"panel\">\n<h2>阅读索引</h2>\n<dl>\n<dt>文档性质</dt><dd>静态说明，不含交互提交</dd>\n<dt>品牌标识</dt><dd>R</dd>\n<dt>档位数量</dt><dd>三档，阶梯递进</dd>\n<dt>客户端</dt><dd>无已核验下载地址</dd>\n<dt>更新方式</dt><dd>以页面正文为准</dd>\n</dl>\n</aside>\n</section>\n\n<section class=\"wrap steps\" id=\"use\">\n<h2 class=\"sec\">使用说明</h2>\n<p>请按下列顺序操作。每一步只完成一件事，完成后再进入下一步。</p>\n<ol>\n<li>确认本机时间与时区正确，避免订阅状态显示偏差。</li>\n<li>在档位区块选定一档，记录月价与年价对照，勿混用不同档的权益描述。</li>\n<li>准备客户端：本页不提供安装包链接。请使用你已持有、且来源可核验的程序，或暂缓安装。</li>\n<li>导入配置或登录账号后，先做一次本地连通性检查（浏览器打开任意已知可用站点即可）。</li>\n<li>若无法连通，先核对照片级截图中的档位名称是否与本页一致，再核对本机防火墙是否拦截该程序。</li>\n<li>需要对照条款时，仅以本页已写明的条目为准，不要引用未列出的口头承诺。</li>\n</ol>\n</section>\n\n<section class=\"plans\" id=\"plans\">\n<h2 class=\"sec\">订阅档位（阶梯递进）</h2>\n<div class=\"ladder\">\n<article class=\"tier t1\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月 · 按年付 ¥150/年</p>\n<ul>\n<li>流量额度：每月 100GB</li>\n<li>同时在线设备：3 台</li>\n<li>媒体访问：基础流媒体条目（以服务端当时开放名单为准）</li>\n<li>线路：普通线路节点池</li>\n</ul>\n</article>\n<article class=\"tier t2\">\n<h3>旗舰版 <span class=\"mark\">推荐标记</span></h3>\n<p class=\"price\">¥35/月 · 按年付 ¥350/年</p>\n<ul>\n<li>流量额度：每月 300GB</li>\n<li>同时在线设备：5 台</li>\n<li>媒体访问：全节点原生流媒体条目（以服务端当时开放名单为准）</li>\n<li>线路：含 IPLC 游戏向优化条目（不作时延承诺）</li>\n<li>工单：7×24 优先队列</li>\n</ul>\n</article>\n<article class=\"tier t3\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月 · 按年付 ¥850/年</p>\n<ul>\n<li>流量额度：每月 1000GB</li>\n<li>同时在线设备：20 台</li>\n<li>线路：VIP 高带宽条目</li>\n<li>路由：支持企业定制路由申请</li>\n<li>对接：专属客户经理通道</li>\n</ul>\n</article>\n</div>\n</section>\n\n<section class=\"clients\" id=\"clients\">\n<h2 class=\"sec\">客户端准备</h2>\n<article>\n<h3>下载与安装</h3>\n<p>目前没有已核验的官方安装地址。请勿从不明镜像获取可执行文件。链接留空，页面内仅提供占位锚点：<a href=\"#\">暂无可靠下载</a>。</p>\n</article>\n<article>\n<h3>系统侧建议</h3>\n<p>在自行取得可核验程序之后，于桌面或移动系统中完成安装，并给予网络权限。本页不列举兼容机型，亦不保证各系统版本的表现。</p>\n</article>\n</section>\n\n<section class=\"faq\" id=\"faq\">\n<h2 class=\"sec\">常见问题</h2>\n<div class=\"faq-group\">\n<h3>关于阅读与事实范围</h3>\n<article>\n本页能否视为官方资质证明？\n<p>不能。事实清单为空，本页只整理结构与档位对照，不声明法人、牌照或运营主体。</p>\n</article>\n<article>\n未写出的速度、日志与退款如何理解？\n<p>视为未提供。说明书口吻要求：缺项即不推断。</p>\n</article>\n</div>\n<div class=\"faq-group\">\n<h3>关于档位</h3>\n<article>\n年付与月付如何对照？\n<p>基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。权益以对应档位列表为准。</p>\n</article>\n<article>\n推荐标记代表什么？\n<p>仅表示版式上的强调，不构成效果承诺。</p>\n</article>\n</div>\n<div class=\"faq-group\">\n<h3>关于客户端</h3>\n<article>\n为什么没有安装包？\n<p>缺少可核验来源时，地址必须留空，避免伪造下载。</p>\n</article>\n<article>\n可以同时登录多少设备？\n<p>按所选档位：3、5 或 20 台。超出部分的处理规则未提供，故不描述。</p>\n</article>\n</div>\n</section>\n</main>\n<footer>R · 静态说明文档 · 仅供页面阅读</footer>",
+          "hash": "4dc222866c926ade08a527a2a04099383e02c25c1310eccca2663caf35bccf55",
+          "seo": {
+            "title": "R 使用说明与订阅档位",
+            "keywords": "R, 订阅说明, 档位对照, 客户端准备, 常见问题",
+            "description": "R 以说明书体例整理页面结构、订阅档位、客户端准备步骤与分组问答，便于对照阅读。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "5112",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fyfwrbd.cn",
+    "host": "p-5504577895.fyfwrbd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b4201b4fcbda144bd6f7988093b0540da6bc77efd06b3a218af928abdbe22405",
+    "sitemap.xml": "ccf852a9e180415f584d53afb122a5236a23047559524a31e2ebb88a62f7efe7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6f0230e438f3556f4336821aae64c5e7560de1173cf372b407baff25275276af",
+    "robots.txt": "40c978d142186ac62c6a2dd1105c6ad1de0c7663d6bad43ecc003dc06236d0ca",
+    "671e5d86c02c58b80adbe462f41d5643.txt": "a5f730dd6a253b1b9c9babedfc1d8cde1c2eff4f2f17793d700f22a0147da80d"
+  },
+  "revision": "5e64bc69fe291d840333c0b4477f76b7e76fe8472415d3d9747be15db83c58b0"
+}
